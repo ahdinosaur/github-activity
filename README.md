@@ -2,7 +2,7 @@
 
 #### **idea**
 
-as an open source developer, i'm most proud of [my GitHub activity](https://github.com/ahdinosaur). yet the activity provided by GitHub is incomplete, showing only part of my overall contributions, as well as only providing detailed history up to a small window of recent events. i wish [my website](http://dinosaur.is) provided a view into the full history, searchable and all, as a true display of my open source contributions.
+as an open source developer, i'm most proud of [my GitHub activity](https://github.com/ahdinosaur). yet the activity provided by GitHub is incomplete, showing only part of my overall contributions, [only providing detailed history up to a small window of recent events](https://github.com/ahdinosaur?tab=activity), and not highlighting most activity within orgs (where most of my activity happens). i wish [my website](http://dinosaur.is) provided a view into the full history, searchable and all, as a true display of my open source contributions.
 
 here's an idea for how to achieve this. hey, anyone interested in implementing this?
 
